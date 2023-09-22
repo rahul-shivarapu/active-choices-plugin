@@ -5,6 +5,7 @@
 [![Jenkins Plugin Installs](https://img.shields.io/jenkins/plugin/i/uno-choice.svg?color=blue)](https://plugins.jenkins.io/docker-workflow)
 [![Jenkins](https://ci.jenkins.io/job/Plugins/job/active-choices-plugin/job/master/badge/icon?subject=Jenkins%20CI)](https://ci.jenkins.io/job/Plugins/job/active-choices-plugin/job/master/)
 [![JIRA issues](https://img.shields.io/static/v1?label=Issue%20tracking&message=component:%20active-choices-plugin&color=blue)](https://issues.jenkins.io/browse/JENKINS-64962?jql=component%20%3D%20%27active-choices-plugin%27%20AND%20resolution%20IS%20EMPTY%20ORDER%20BY%20updated%20DESC)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frahul-shivarapu%2Factive-choices-plugin.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frahul-shivarapu%2Factive-choices-plugin?ref=badge_shield)
 
 ## Overview
 
@@ -596,3 +597,7 @@ Get in touch if you would like to sponsor the development of the plug-in, or an 
 
 Check out a list of articles, tutorials, and publications at the [BioUno website](http://biouno.org/publications.html)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frahul-shivarapu%2Factive-choices-plugin.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frahul-shivarapu%2Factive-choices-plugin?ref=badge_large)
